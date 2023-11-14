@@ -59,13 +59,13 @@ In order to do this analysis, you are expected to solve these questions:
 
 3) Create a new categorical variable for Experience using 4 categories –
 
-• 0 to 10 years 
+  • 0 to 10 years 
 
-• 11 to 20 years 
+  • 11 to 20 years 
 
-• 21 to 30 years 
+  • 21 to 30 years 
 
-• 30+ years.
+  • 30+ years.
 
 Plot a bar graph for this new categorical variable
 
@@ -82,13 +82,13 @@ Plot a bar graph for this new categorical variable
 
 8) Create 4 separate Pivot Tables. Summarize your data by percentage values.
 
-• Education vs Personal Loan
+  • Education vs Personal Loan
 
-• TD Account Vs Personal Loan
+  • TD Account Vs Personal Loan
 
-• Online vs Personal Loan
+  • Online vs Personal Loan
 
-• Income_Category vs Personal Loan
+  • Income_Category vs Personal Loan
 
 [Hint: Please drag Personal Loan to the Columns area while creating the Pivot Table to get the required values]
 
