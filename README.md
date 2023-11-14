@@ -2,7 +2,7 @@
 <br>
 <br>
 
-![Bank](HBFC-Bank Data Analysis - Excel/Banner.jpg)
+![Bank](https://github.com/SFutureAnalyst/HBFC-Bank-Data-Analysis-Portfolio/Banner.jpg)
 
 # Table of Contents:
   - [Problem Statement.](#problem-statement)
